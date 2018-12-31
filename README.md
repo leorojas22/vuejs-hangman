@@ -1,4 +1,4 @@
-# hangman2
+# hangman
 
 ## Project setup
 ```
